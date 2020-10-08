@@ -373,5 +373,25 @@ img{
       cursor: pointer;
       border: 0px;
       padding: 15px 10px;
+  }
 
+  @media (max-width: 600px){
+    .newslatter-form button{
+        font-size: 1.5em;
+    }
+  }
+
+  /*Footer*/
+
+  .footer{
+      display: flex;
+      height: 100px;
+      background: #2c70ff;
+      align-items: center;
+      justify-content: center;
+  }
+
+  .footer p {
+      font-size: 1.25em;
+      color: #122ab2;
   }
