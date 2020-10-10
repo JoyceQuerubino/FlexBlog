@@ -1,13 +1,13 @@
 # FlexBlog
 
-O site FlexBlog é um projeto criado, a partir do curso CSS FlexBox da **[Origamid](https://www.origamid.com/)** para aprender a desenvolver layouts responsivos apenas com a propriedade Flexbox dos CSS. Entendo os fundamentos e conceitos por trás da propriedade.
+O site FlexBlog é um projeto criado, a partir do curso **CSS FlexBox** da **[Origamid](https://www.origamid.com/)** para aprender a desenvolver layouts responsivos apenas com a propriedade Flexbox dos CSS, entendo seus fundamentos e conceitos.
 
-O curso é dividido para explicar as propriedades: flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, flex-grow, flex-basis, flex-shrink, flex, order e align-self.
+O curso é dividido para explicar: flex-direction, flex-wrap, flex-flow, justify-content, align-items, align-content, flex-grow, flex-basis, flex-shrink, flex, order e align-self.
 
-## Preview 
+## 🖥 Preview 
 
 <h1 align = center>
-    <img src="public/Foodfy2.gif">
+    <img src="apresentacao.gif">
 </h1>
 
 ## 📚 Sobre o site
@@ -19,7 +19,7 @@ O site é bem simples, do tipo One Page e contendo apenas o Front-end e conteúd
     - Preço;
     - Qualidade;
 
-## 💻 Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 
 - HTML
 - CSS
