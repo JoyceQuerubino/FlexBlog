@@ -7,7 +7,7 @@ O curso é dividido para explicar: flex-direction, flex-wrap, flex-flow, justify
 ## 🖥 Preview 
 
 <h1 align = center>
-    <img src="apresentacao.gif">
+    <img src="/github/apresentacao.gif">
 </h1>
 
 ## 📚 Sobre o site
